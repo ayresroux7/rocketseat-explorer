@@ -1,1 +1,1 @@
-# rocketseat-explorer
+# Rocketseat Explorer
